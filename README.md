@@ -12,9 +12,12 @@
 
 ## 🧐 About
 
-Simple tictactoe-app with react
+Simple tictactoe-app with react.
 
 ## 💡Features
+
+- 3\*3 game board
+- Win the game when a user occupies 3 continuous blocks
 
 ## ⛏️Built with
 
