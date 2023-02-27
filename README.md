@@ -63,18 +63,23 @@ Reset the Browser's CSS style for Cross Browsing.
 
 - This project works on the device with `node.js` installesd.
 
-1. Clone this repository.
-   - `git clone https://github.com/0112shpark/OMDb-movie-app.git`
-2. Move directory into the folder `OMDb-movie-app`
-   - `cd OMDb-movie-app`
-3. Install `parcel bundler`.
-   - `npm i -D parcel `
-4. Install `vercel bundler`.(only if API set succeed)
-   - `npm i -D vercel `
-5. Install `env bundler`.(only if API set succeed)
-   - `npm i -D dotenv `
-6. Run developing server with following command.
-   - `npm run vercel`
-7. Visit the site with domain name `localhost/####`.
+1. Make new folder on your computer.
+2. Install react with `create-react-app`.
+   - `npx create-react-app ./`
+3. pull this repository.
+   - `pull origin main`
+4. Run development server with `npm start`
 
-## 🔑 API key Issue
+## 📚Some knowledges
+
+### 📃Single Page Appliciation (SPA)
+
+---
+
+✏️ Includes all pages of entire website in one single page or template. By loading each page dynamically, we can use one `index.html` file to show all page.
+
+✏️ We use `History API` of HTML 5 to change page. For example, we use follwing methods.
+
+- `History.back()`
+- `History.foward()`
+- `History.go()`
