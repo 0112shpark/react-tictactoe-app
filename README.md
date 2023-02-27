@@ -67,7 +67,7 @@ Reset the Browser's CSS style for Cross Browsing.
 2. Install react with `create-react-app`.
    - `npx create-react-app ./`
 3. pull this repository.
-   - `pull origin main`
+   - `git pull origin main`
 4. Run development server with `npm start`
 
 ## 📚Some knowledges
