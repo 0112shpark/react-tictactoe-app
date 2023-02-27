@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# 🌟react-tictactoe-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+<img src ="./images/totalview.gif" alt = "logo">
+</div>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## :bell: Visit the site
 
-### `npm start`
+➡️
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🧐 About
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Simple tictactoe-app with react
 
-### `npm test`
+## 💡Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ⛏️Built with
 
-### `npm run build`
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+- <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+- <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📑 Initial Settings
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h3>🔥Reset-CSS</h3>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+Reset the Browser's CSS style for Cross Browsing.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```html
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css"
+/>
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h3>🔥Google Fonts and Material Icons</h3>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+⭐ Following Fonts are used in this project.
 
-## Learn More
+- `Roboto`: Regular 400, bold 700.
+- `Oswald`: Medium 500.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```html
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@400;700&display=swap"
+  rel="stylesheet"
+/>
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🏃Getting Started
 
-### Code Splitting
+### 📌 Start at local device
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- This project works on the device with `node.js` installesd.
 
-### Analyzing the Bundle Size
+1. Clone this repository.
+   - `git clone https://github.com/0112shpark/OMDb-movie-app.git`
+2. Move directory into the folder `OMDb-movie-app`
+   - `cd OMDb-movie-app`
+3. Install `parcel bundler`.
+   - `npm i -D parcel `
+4. Install `vercel bundler`.(only if API set succeed)
+   - `npm i -D vercel `
+5. Install `env bundler`.(only if API set succeed)
+   - `npm i -D dotenv `
+6. Run developing server with following command.
+   - `npm run vercel`
+7. Visit the site with domain name `localhost/####`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🔑 API key Issue
