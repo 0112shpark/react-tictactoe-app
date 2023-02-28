@@ -1,4 +1,4 @@
-# 🌟react-tictactoe-app
+# 🌟react-TicTacToe-app
 
 <div align="center">
 <img src ="./images/totalview.gif" alt = "logo">
@@ -8,11 +8,11 @@
 
 ## :bell: Visit the site
 
-➡️
+➡️[Visit the Site!](https://react-tictactoe-app.vercel.app/)
 
 ## 🧐 About
 
-Simple tictactoe-app with react.
+Simple TicTacToe-app with react.
 
 ## 💡Features
 
@@ -67,11 +67,17 @@ Reset the Browser's CSS style for Cross Browsing.
 - This project works on the device with `node.js` installesd.
 
 1. Make new folder on your computer.
-2. Install react with `create-react-app`.
-   - `npx create-react-app ./`
-3. pull this repository.
-   - `git pull origin main`
-4. Run development server with `npm start`
+2. Clone this repository.
+
+- `git clone https://github.com/0112shpark/react-tictactoe-app.git`
+
+3. Install npm packages.**(on your terminal.)**
+
+- `npm install`
+
+4. Run development server with following command.**(on your terminal.)**
+
+- `npm start`
 
 ## 📚Some knowledges
 
