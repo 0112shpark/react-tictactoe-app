@@ -2,7 +2,7 @@
   "name": "react-tictactoe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://0112shpark.github.io/react-tictactoe-app/",
+  
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
