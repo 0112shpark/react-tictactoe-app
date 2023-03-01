@@ -8,7 +8,8 @@
 
 ## :bell: Visit the site
 
-➡️[Visit the Site!](https://react-tictactoe-app.vercel.app/)
+➡️[Visit the Site!(Vercel)](https://react-tictactoe-app.vercel.app/)
+➡️[Visit the Site!(Github pages)](https://0112shpark.github.io/react-tictactoe-app/)
 
 ## 🧐 About
 
